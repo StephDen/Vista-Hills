@@ -1,0 +1,27 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 465, in script
+    if randonum == 1:
+  File "game/script.rpy", line 465, in <module>
+    if randonum == 1:
+NameError: name 'randonum' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 465, in script
+    if randonum == 1:
+  File "C:\Users\Stephen\Desktop\renpy-6.99.12.4-sdk\renpy\ast.py", line 1656, in execute
+    if renpy.python.py_eval(condition):
+  File "C:\Users\Stephen\Desktop\renpy-6.99.12.4-sdk\renpy\python.py", line 1749, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\Stephen\Desktop\renpy-6.99.12.4-sdk\renpy\python.py", line 1743, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 465, in <module>
+    if randonum == 1:
+NameError: name 'randonum' is not defined
+
+Windows-8-6.2.9200
+Ren'Py 6.99.12.4.2187
+The Bamboozle Dream Meme Team

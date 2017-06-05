@@ -1,0 +1,130 @@
+Identifier	Character	Dialogue	Filename	Line Number
+start_ef1dc0cf		You have just arrived at Waterloo.	game/script.rpy	101
+start_2da76883		You are part of the select few who have been selected to join the new engineering program.	game/script.rpy	102
+start_93631665		With r/uwaterloo's rising popularity, there has been an increased need to innovate more creamy memes.	game/script.rpy	103
+start_57f15445		Meme Engineering is only in its first year of infancy and you have been one of ten people selected to participate in this new program.	game/script.rpy	104
+start_9306a6ed		You are too poor to afford MKV air conditioning so you head towards the UWP dorms.	game/script.rpy	105
+start_1977e50a		You see goose shit everywhere, dragging your luggage through the gravel road, trying to avoid much of the shit on the ground as possible.	game/script.rpy	109
+start_98b0f04c		Along the way you are stopped by a goose with eyebrows.	game/script.rpy	113
+start_6b32b6a3		The goose raises its eyebrow.	game/script.rpy	114
+start_31f9c206	eb	Honk	game/script.rpy	118
+start_2d08bb0b		You realize that this is the goose who has shat all over the road.	game/script.rpy	119
+start_7a39c0c2		You decide whether or not to fight this goose and claim vengence for your luggage.	game/script.rpy	120
+fightgoose_db081f36		You decide to fight the goose.	game/script.rpy	143
+fightgoose_6f070ab3		You did not win against the goose.	game/script.rpy	148
+fightgoose_ea322b57		You die knowing that these large water fowl are too dangerous to fight.	game/script.rpy	149
+fightgoose_3950330b		Sigh...	game/script.rpy	150
+fightgoose_3ce96bc8		Fine, I'll give you a freebie this time.	game/script.rpy	151
+flightgoose_bbf580f9		You are wise in avoiding the goose.	game/script.rpy	161
+flightgoose_e4fb15be		You head to your dorm and rest the night.	game/script.rpy	162
+flightgoose_fbee08f8		You are well rested.	game/script.rpy	166
+flightgoose_b704befa		You begin heading towards your first lecture.	game/script.rpy	167
+flightgoose_73a53b0e		You walk into RCH and you realize that the lecture rooms are nothing like the ones you saw in the promotional video	game/script.rpy	171
+flightgoose_0efbfed1		You are exhausted by the end of your first day but feeling confident in your courses because you got a 99 average in highschool.	game/script.rpy	172
+flightgoose_ba599e7b		One particular day after you leave your Lin Alg tutorial, you feel thirsty and the desire to use the washroom.	game/script.rpy	176
+flightgoose_f138d588		Upon arriving at the washroom you find a half-empty water bottle on the seat of the toilet.	game/script.rpy	177
+flightgoose_f7007e1f		You move the water bottle and use the toilet.	game/script.rpy	181
+flightgoose_800b5add		You are rather thirsty after taking a dump.	game/script.rpy	182
+drink_77ce52f7		Damn you are a degenerate, someone used that water bottle as a bidet you know.	game/script.rpy	199
+drink_2cef41b2		Didn't anyone teach you to not drink a half-empty waterbottle that you found in a bathroom stall?	game/script.rpy	200
+drink_1f5d8c4a		Go use it as a bidet instead.	game/script.rpy	201
+drink_19b08eba		I know we have a shortage of female students..	game/script.rpy	202
+drink_d98478ea		but damn you are just too thirsty.	game/script.rpy	203
+drink_02bab5a2		Narrator just broke the forth wall.	game/script.rpy	204
+bidet_01a70531		You use the half empty water bottle as a bidet.	game/script.rpy	214
+bidet_f3aa80b2		Your anus has never felt so refreshed.	game/script.rpy	215
+bidet_eacb74c3		Your anus is no longer hurting from all the ass-rape you have suffered since coming here.	game/script.rpy	216
+coop_bcfa250c		You head home to apply to co-op	game/script.rpy	225
+coop_85493bf3		Cali or bust you say	game/script.rpy	226
+coop_bafbe6c1		You apply to only the dankest cali jobs, who wouldn't want you, you have that dank highschool mark.	game/script.rpy	227
+before_midterms_28c27155		~Time skip to before midterms~	game/script.rpy	236
+before_midterms_a20cefa7		...	game/script.rpy	237
+before_midterms_374b984e		You have still not been interviewed yet.	game/script.rpy	238
+before_midterms_dc0734e3		You put your resume on /r/uwaterloo but everyone just says its shit.	game/script.rpy	239
+before_midterms_8e304bac		Feels bad man.	game/script.rpy	240
+before_midterms_cb3f318d		You are famished after staying up two nights to study for your midterms. You have been eating nothing but Soylent for the past week.	game/script.rpy	244
+before_midterms_a89061ea		You require real food.	game/script.rpy	245
+before_midterms_28484012		You head to the plaza in search of food.	game/script.rpy	246
+phathat_1cf0e79f		You forgot that Phathat is actually a money laundering service.	game/script.rpy	267
+phathat_b0959bfe		There is no food here and you starve.	game/script.rpy	268
+phathat_cdb029f1		You head to Paninos instead.	game/script.rpy	269
+paninos_6a12c9a2		You eat the food before you with haste.	game/script.rpy	278
+paninos_954861f5		You are filled up and leave.	game/script.rpy	279
+paninos_54e3bd52		You ponder about life as you walk back towards your dorm.	game/script.rpy	283
+paninos_3cfb2fda		'Why no gf?'	game/script.rpy	284
+paninos_6acaa591		You hear a honk and turn around.	game/script.rpy	288
+paninos_877f2d5c		Even the goose from before has a gf.	game/script.rpy	292
+paninos_ac373ada		At least you aren't in 4B ECE.	game/script.rpy	297
+after_midterms_a20cefa7		...	game/script.rpy	306
+after_midterms_353d126c		Midterms are over	game/script.rpy	307
+after_midterms_499fb8df		You are failing three of your classes.	game/script.rpy	308
+after_midterms_c5ee7271		Your 99 in highschool did not help.	game/script.rpy	309
+after_midterms_1847ec28		You still have no co-op.	game/script.rpy	310
+after_midterms_fee659cd		You have busted	game/script.rpy	311
+after_midterms_76d42365		(¬‿¬)	game/script.rpy	312
+after_midterms_b35f271d		The pressure is on.	game/script.rpy	313
+after_midterms_6e53e4d4		You recieve an email one day asking you to meet a councellor about your grades.	game/script.rpy	314
+after_midterms_4590d353		You see feridun himself in the flesh.	game/script.rpy	319
+after_midterms_06b761bf		You must be dreaming.	game/script.rpy	320
+after_midterms_fa508fd9	f	Do not worry young one, if you fall, simply innovate harder.	game/script.rpy	322
+after_midterms_a37bc4e8	f	Finals are worth more than midterms.	game/script.rpy	323
+after_midterms_5b9ce638	f	There is always continuous round.	game/script.rpy	324
+after_midterms_2e3a5fef	f	Work hard and make me proud.	game/script.rpy	325
+after_midterms_fa3183e0		Feridun is love, Feridun is life.	game/script.rpy	327
+after_midterms_6ad5cb9f		You go to resume critiques and go to extra help sessions.	game/script.rpy	332
+after_midterms_baf9a8b6		You apply to every damn co-op you can.	game/script.rpy	333
+after_midterms_253e0f06		Your meme game intensifies.	game/script.rpy	334
+finals_3aa4c100		It is exam season	game/script.rpy	343
+finals_f3b7ee08		You head to Toronto to catch up with your high-school friends because you sure haven't made any friends here	game/script.rpy	344
+finals_0a636116		You can feel the normie atmosphere coming from everyone walking the campus	game/script.rpy	348
+finals_b2442956		A UofT student walks up to you.	game/script.rpy	353
+finals_dd948ce1	ut	UofT has better memes than Waterloo	game/script.rpy	355
+finals_d3e46f52		(╯°□°)╯ ┻━┻	game/script.rpy	359
+finals_5062ee2f		You become triggered	game/script.rpy	360
+peace_8ed4de85		Don't be a pussy, we will never lose to these normal fags when it comes to a meme war	game/script.rpy	376
+peace_4215a1e8		You have been conscripted into the meme war	game/script.rpy	377
+memewar_f496116e		You have cast away all reason and have started making memes in the middle of exam season.	game/script.rpy	386
+memewar_dcbe79cb		The war is fierce.	game/script.rpy	387
+memewar_f73b057a		UofT lead by /u/fattittyfucker creates one spongebob meme after another	game/script.rpy	388
+memewar_0fded8ce		You see the food truck meme rising in popularity.	game/script.rpy	389
+memewar_d21af85c		When all is looking bleak, one man appears to end it all.	game/script.rpy	390
+memewar_69dbebf7		Suddenly u/SseCn8jx appears.	game/script.rpy	391
+memewar_43d00ca0	ga	'Fuck it, if this post recieves 2000 upvotes I will tattoo a goose on my ass.'	game/script.rpy	394
+memewar_87351903	ut	NANI?BAKANA? How do you guys shitpost so hard in the middle of exam season?	game/script.rpy	405
+memewar_34284c73	f	Fools.	game/script.rpy	409
+memewar_0b5f3ec9	f	You think you can stop the dissruptive power of /r/uwaterloo?	game/script.rpy	410
+memewar_2968f1be	f	The last time something dropped this hot it ended WWII.	game/script.rpy	411
+memewar_16201b3b		You return to school knowing that you participated in such a historic event.	game/script.rpy	419
+memewar_83caadcf		You study for exams.	game/script.rpy	420
+memewar_033b55cb		Who are you kidding, you brows reddit all day.	game/script.rpy	421
+memewar_4fafa590		You apply lube to your anus in expectation of the ass-rape to come.	game/script.rpy	422
+memewar_d3bfe9b0		( ͡° ͜ʖ ͡°)	game/script.rpy	423
+memewar_a4e28b29		You managed to pass your exams	game/script.rpy	429
+memewar_5563fc9e		You found a dank co-op	game/script.rpy	430
+memewar_7d069490		You have a GF now	game/script.rpy	431
+memewar_cf46b91b		Life is great	game/script.rpy	432
+memewar_a20cefa7		...	game/script.rpy	433
+memewar_4324c426		You really thought that could happen at Waterloo?	game/script.rpy	434
+memewar_b6021211		(☞*∀*)☞	game/script.rpy	435
+memewar_7bbc1679		You barely make it past first year	game/script.rpy	436
+memewar_de60e0f5		You don't have a co-op, so you leverage family connections.	game/script.rpy	437
+memewar_277c7553		Still single as ever	game/script.rpy	438
+memewar_cb0e9399		You have however discovered something within you.	game/script.rpy	439
+memewar_ce824f12		You have cast away your earthly desires of wanting human companionship and the need for sleep	game/script.rpy	440
+memewar_ac53dfae		Your level of autism and degeneracy greatly increases	game/script.rpy	441
+memewar_0bf6ee3c		You have evolved into a memelord!	game/script.rpy	445
+memewar_660f8055		You head-off into the work term with renewed vigor	game/script.rpy	446
+memewar_eef771a6		You can't wait to graduate and escape from this shit-hole	game/script.rpy	447
+ending_cda6d127		Wait what's this?	game/script.rpy	454
+broad_4dc926a4		Congrats	game/script.rpy	459
+broad_558083f9		You actually managed to fuck up so hard that you unlocked this easter egg	game/script.rpy	460
+broad_bb99e68d		That's it	game/script.rpy	461
+broad_e5b14840		Just some internet points	game/script.rpy	462
+broad_b08c96a4		Why do you do this to yourself?	game/script.rpy	463
+broad_b94b4d10		Broad is love Broad is life	game/script.rpy	464
+credits_28a3f976		I'm the narrator and I like to chase geese around.	game/script.rpy	473
+credits_bfa1a8de		I wouldn't recommened it though, sometimes they chase back.	game/script.rpy	474
+credits_8008277d		Thanks for playing the game	game/script.rpy	475
+credits_20a26887		I didn't know wtf I was doing half the time, but hey it worked out	game/script.rpy	476
+credits_85b65ff0		Special thanks to Laggy for letting me use his amazing videos, my game would have been complete shit without them.	game/script.rpy	477
+credits_0b949432		All content belong to their respectful owners. All sources can be found in the About tab in the main menu.	game/script.rpy	478

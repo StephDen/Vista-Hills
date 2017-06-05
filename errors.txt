@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 468: expected python_expression
+    elif:
+        ^
+
+Ren'Py Version: Ren'Py 6.99.12.4.2187
