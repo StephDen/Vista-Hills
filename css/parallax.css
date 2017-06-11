@@ -51,11 +51,11 @@ display: none;
 }
 .center{
     position:absolute;
-    width:780px;
+    width:3000px;
     height:650px;
-    left:66.5%;
+    left:0%;
     top:70%;
-    margin-left:-400px;
+    margin-left:0px;
     margin-top:-325px;
 }
 $parallax__layers: 6;

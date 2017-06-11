@@ -97,8 +97,8 @@ $(function(){
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "game/images/waterlooair.jpg",
-       "game/images/rch.jpg",
+       "playground/vis.jpg",
+       
         ],  {duration: 2000, fade: 750});
     });
   })
